@@ -1,4 +1,4 @@
-# Chrono-TZ 0.6
+# Chrono-TZ 0.6 - UTC +0530 TZ forked implementation.
 
 `Chrono-TZ` is a library that provides implementors of the
 [`TimeZone`][timezone] trait for [`rust-chrono`][chrono]. The
